@@ -2,13 +2,10 @@
 id: documento_de_visao
 title: Documento de Visão
 ---
+
 ## Introdução
 
-
-
 ## Descrição do Problema 
-
-
 
 ### Problema
 
@@ -28,15 +25,7 @@ Utilizar a aplicação que será desenvolvida visando resolver...
 
 ## Objetivos
 
-<p align = "justify">
-O objetivo da equipe de desenvolvimento é fornecer...
-</p>
-
 ## Descrição do Usuário 
-
-<p align = "justify">
-Os usuários serão....
-</p>
 
 ## Requisitos Funcionais e Não Funcionais
 
@@ -45,15 +34,6 @@ Os usuários serão....
 #### Usuários 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-#### Treinos
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.....
-
-#### Playlist
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...
 
 ## Regras de Negócio
 
