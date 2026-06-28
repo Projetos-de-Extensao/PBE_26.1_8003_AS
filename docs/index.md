@@ -1,4 +1,6 @@
-# FitLife - Plataforma de Treinos e Bem-Estar
+# FitLife 
+
+- **Plataforma de Treinos e Bem-Estar**
 
 ## Visão Geral do Projeto
 
